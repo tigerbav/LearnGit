@@ -1,4 +1,4 @@
 Hello, from master branch
 Hello, worker!
 Good merge
-
+Try kdiff3 on master
