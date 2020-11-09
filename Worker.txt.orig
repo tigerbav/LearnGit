@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 Hello, from master branch
 Hello, worker!
 Good merge
 Try kdiff3 on master
-
+=======
+Hello, worker!
+5
+8
+Try kdiff3 on Work
+>>>>>>> Work
